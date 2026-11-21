@@ -1,5 +1,5 @@
 # MODE-Handyman
-CRM app for handymen and contractors. MODE is Maclean Of Duart Enterprises , and mode as in Russian for stylish. Manage clients, create quotes and invoices, materials and suppliers, take notes, material calculator for volume etc, receipts, trip records, client signatures and more. 
+CRM app for businesses although best for handymen and contractors. MODE is Maclean Of Duart Enterprises , and mode as in Russian for stylish. Manage clients, create quotes and invoices, materials and suppliers, take notes, material calculator for volume etc, receipts, trip records, client signatures, manage employees, jobsites, schedules, and more. 
 MODE Handyman
 
 Version 2.0.7 — Native Android Business Management
